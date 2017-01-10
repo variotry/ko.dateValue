@@ -1,0 +1,22 @@
+{
+	"name": "ko.dateValue",
+	"main": [
+		"dist/ko.dateValue.min.js",
+		"dist/ko.dateValue.d.ts"
+	],
+	"ignore": [
+		"**/.*",
+		"bowerLibs",
+		"gulpfile.js",
+		"gulpfiles",
+		"package.json",
+		"tsconfig.json",
+		"tslint.json",
+		"typings.json",
+		"*.sln",
+		"*.csproj"
+	],
+	"dependencies": {
+		"knockout": "*"
+	}
+}

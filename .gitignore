@@ -1,0 +1,7 @@
+/.vs
+/bower_components
+/node_modules
+/bin
+/obj
+/*.user
+/typings

@@ -1,0 +1,21 @@
+{
+	"name": "ko_dateValue",
+	"version": "0.0.1",
+	"description": "Knockout date value binding.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/variotry/ko.dateValue.git"
+	},
+	"author": "vario <variotries@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"gulp": "3.9.1",
+		"gulp-util": "3.0.7",
+		"gulp-rename": "1.2.2",
+		"gulp-sourcemaps": "1.6.0",
+		"gulp-uglify": "1.5.3",
+		"gulp-plumber": "1.1.0",
+		"gulp-typescript": "2.13.6",
+		"merge2": "1.0.2"
+	}
+}
